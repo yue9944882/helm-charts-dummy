@@ -1,1 +1,1 @@
-# helm-charts-dummy
+# Helm Chart Dummy
